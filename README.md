@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sol-aris
 - 👀 I’m interested in concept art, writing, and game development
 - 🌱 I’m currently learning how to be a functional human being.
-- 💞️ I’m looking to collaborate on nothing, 'cause this is a solo act (for now ;)).
+- 💞️ I’m looking to collaborate on nothing, 'cause I have no idea what I'm doing :P.
 - 📫 How to reach me: @sol.artis on Instagram is a good start! :D
 
 <!---
